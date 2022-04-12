@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="App">
       <BioData
-        Name="Md Sazib"
+        Name="Hm.Sazib Howlader"
         Eamil="hmsazib21@gmail.com"
         Phone="01781471993"
         skills={["js","react","python"]}
